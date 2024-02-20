@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    
+    <title>Newspaper</title>
+</head>
+<body>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus vel neque illum ad hic quaerat, maxime et quidem aperiam quo sapiente soluta reiciendis ipsam itaque inventore quasi? Quaerat, amet. Quod adipisci dignissimos</p>
+    <h1 class="heading">DAILY NEWS PAPER</h1>
+        <p id="text"><b>Excepteur sint occaecat cupidatat non proident sunt in cilpa qui</b></p>
+        <p id="text1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut iusto, dolorem accusantium</p>
+        <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, debitis.</span>
+    <div class="image">
+    <img src="https://tse1.mm.bing.net/th?id=OIP.K6tBvai6eggW5WCWokiMyQHaEK&pid=Api&P=0&h=180" width="560px" height="500px" alt="">
+    </div>
+    <div class="product" >
+        <div class="box">
+            <img src="https://source.unsplash.com/220x220/?perfume?1" width="350px">
+            <P><b>IMPORTANT NEWS</b></P>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos at dolorem animi. Nisi consequator cupiditate fugiat anut sequid voluptatum adipisci</p>
+        </div>
+        <div class="box">
+            <img src="https://source.unsplash.com/220x220/?perfume?2" width="350px">
+            <P><b>IMPORTANT NEWS</b></P>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam minima voluptate in excepturi consequatur cupiditate fugiat aut sequi voluptatum adipisci.</p>
+        </div>
+        <div class="box">
+            <img src="https://source.unsplash.com/220x220/?perfume?3" width="350px">
+            <P><b>IMPORTANT NEWS</b></P>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam minima voluptate in excepturi consequatur cupiditate fugiat aut sequi voluptatum adipisci.</p>
+        </div>
+            </div>
+</body>
+</html>
