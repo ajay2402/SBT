@@ -2,7 +2,7 @@
     text-align: center;
     color: red;
     margin-bottom: 50px;
-    font-size:50px;
+    font-size:10px;
 }
 body {
    background-color:grey;
@@ -52,7 +52,7 @@ body {
     margin-bottom:10px;
     padding: 40px;
     line-height:8px;
-    margin-left:440px;
+    margin-left:360px;
 }
 .double{
     display: flex;
@@ -74,7 +74,7 @@ body {
     flex-wrap: wrap;
     flex-direction:column;
     margin-bottom:10px;
-    margin-left:440px;
+    margin-left:360px;
     padding: 40px;
     line-height:8px;
 }
@@ -114,7 +114,7 @@ body {
     gap: 700px;
     flex-direction: row;
     margin-bottom:10px;
-    margin-left: 440px;
+    margin-left:360px;
     padding: 40px;
     line-height:8px;
     text-align: center;
@@ -138,7 +138,7 @@ body {
     font-size:8px;
     flex-wrap: wrap;
     flex-direction: column;
-    margin-left:440px;
+    margin-left:360px;
     margin-bottom:10px;
     padding: 40px;
     line-height:4px;
